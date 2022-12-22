@@ -7,9 +7,13 @@ public class Aritmatika {
         int jarak = sc.nextInt();
         int jumlah = sc.nextInt();
 
+        System.out.println();
+
     }
+    
     private static int geometri(int angka, int jarak, int jumlah) {
-        inthasil= angka * geometri();
+        int hasil= angka * geometri();
+        return hasil;
     }
 
 }
