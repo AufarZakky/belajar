@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lampu {
+public class lampuass2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int angka = sc.nextInt();

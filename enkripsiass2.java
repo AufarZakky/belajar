@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class enkripsi {
+public class enkripsiass2 {
     private static String caesar(String kalimat,int k){
         String newEncrypt = "";
         for(int i=0;i<kalimat.length();i++){

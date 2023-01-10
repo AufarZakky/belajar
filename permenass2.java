@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class permen {
+public class permenass2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int toples = input.nextInt();
@@ -15,9 +15,6 @@ public class permen {
                 int jmlpermen = masukan[j] + masukan[i];
                 if (jmlpermen == permen) {
                     System.out.println((i +  1) + " " + (j + 1));
-                }
-                else {
-                    continue;
                 }
             }
         }
